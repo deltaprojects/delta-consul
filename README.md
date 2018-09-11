@@ -15,4 +15,4 @@ To github.com:deltaprojects/delta-consul.git
  * [new tag]         v1.2 -> v1.2
 ```
 
-Afterwards you can see build status at [https://hub.docker.com/r/deltaprojects/delta-consul/builds/]().
+Afterwards you can see build status at https://hub.docker.com/r/deltaprojects/delta-consul/builds/.
